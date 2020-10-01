@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe GUI using Kivy 
+TicTacToe GUI using Kivy!
